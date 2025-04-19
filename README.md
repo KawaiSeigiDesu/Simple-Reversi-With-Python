@@ -7,7 +7,7 @@ I’m proud of it because it marks the beginning of my journey as a developer. I
 ---
 
 ## 🛠️ Technologies Used
-- Only Python
+- Python with Turtle Library
 
 ## 🚧 What I Learned
 - How to structure basic code logic
