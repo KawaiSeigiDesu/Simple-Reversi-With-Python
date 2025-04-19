@@ -6,7 +6,7 @@ I’m proud of it because it marks the beginning of my journey as a developer. I
 
 ## 📸 Project Preview
 
-![Project Screenshot](assets/Screenshot-01.png)
+![Project Screenshot](Screenshot-01.png)
 
 ---
 
